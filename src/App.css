@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+.clockHome{
+    width:480px;
+    text-align: center;
+    margin:0px auto;
+    background-color: #333333;
+    font-size: 200%;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+    padding-bottom: 10px;
+    
+}
+
+.btn{
+    color: white;
+    font-weight: lighter;
+    cursor: pointer;
+    border:none;
+    outline: none;
+    background-color: #333333;
+    padding: 10px;
+    font-size: 30px;
+
+}
+
+.displayBox{
+    margin: 0 auto;
+    border:1px solid lime;
+    width: 200px;
+    height: 200px;
+    padding: 5px;
+    border-radius: 100%;
+    cursor: pointer;
+    line-height: 55px;
+
+}
+
+.timer{
+    font-weight: normal;
+
+}
+.indicator{
+    color:#ffc107;
+    font-size: 22px;
+}
+
+.start{
+    color:#28a745;
+}
+
+.stop{
+color: #dc3545;
+}
